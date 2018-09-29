@@ -27,3 +27,10 @@ metadata = {'render.modes':['human']}
  
      OpenAI提供的Baselines：openai/baselines 3.2k starsTensorforce：reinforceio/tensorforce 1.2k 
      starsIntel提供的Coach：NervanaSystems/coach 0.6k stars，pip安装可以使用pip install rl-coach，而不是pip install coachPyBrain：pybrain/pybrain 2.5k starsTensorlayer：tensorlayer/tensorlayer 3.1k stars
+
+
+### 第二天
+
+昨天有些内容丢失了，今天继续。dqn已经不再是一个简单的系统，dupamine发布后，很快会有一场腥风血雨。
+
+强化学习领域目前还不成熟，有很大的发展空间。
